@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Self Checkout",
+  "Author": "TomWaa",
+  "Version": "2.0.1",
+  "Description": "Enables you to buy in the shop if no one is at the counter but the owner is at the location",
+  "UniqueID": "TomWaa.SelfCheckout",
+  "EntryDll": "SelfCheckout.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": [ "Github:TomWaa/SelfCheckout" ]
+}
